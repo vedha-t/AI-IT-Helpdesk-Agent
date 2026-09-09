@@ -26,3 +26,9 @@ The complete 20-page project report is available in this repository.
 - Ticket management integration
 - Better escalation workflow
 - IT service management integration
+- ## Screenshots / Output
+
+![AI IT Helpdesk Dashboard](dashboard.png)
+## Project Demo
+
+[AI IT Helpdesk Agent](https://aihelpdesk-heq4gb74.manus.space/)
